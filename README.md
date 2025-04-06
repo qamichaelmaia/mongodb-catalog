@@ -64,5 +64,5 @@ db.produtos.aggregate([
 
 ## Autor
 Michael Maia
-- [Linkedin](https://www.linkedin.com/in/qamichaelmaia)
+- [Linkedin](https://www.linkedin.com/in/qamichael/)
 
