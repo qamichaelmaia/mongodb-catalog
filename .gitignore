@@ -1,2 +1,10 @@
-*.node_modules/
-*.lock.json
+node_modules/
+
+package-lock.json
+yarn.lock
+
+.env
+.env.local
+
+npm-debug.log
+.DS_Store
